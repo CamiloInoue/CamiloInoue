@@ -74,9 +74,8 @@ Available for Internship / Práctica Profesional 2026-2 · Full-time · Immediat
 
 <div align="center">
 
-![Camilo's GitHub stats](https://vercel.com/camilo-inoue/github-readme-stats/EFV1PAYJNcsK6mEMvRdDZN5NEaG4))
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloInoue&layout=compact&hide_border=true)
-
+[![Camilo's GitHub stats](https://github-readme-stats-hazel-nu-35.vercel.app/api?username=CamiloInoue&show_icons=true&hide_border=true)](#)  
+[![Top Languages](https://github-readme-stats-hazel-nu-35.vercel.app/api/top-langs/?username=CamiloInoue&layout=compact&hide_border=true)](#)
 </div>
 
 ---
