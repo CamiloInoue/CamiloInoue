@@ -62,7 +62,7 @@ Available for Internship / Práctica Profesional 2026-2 · Full-time · Immediat
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Monitoring App](https://github.com/CamiloInoue/ISIS2503-MonitoringApp)** | Web app that tracks and monitors physical variables in real time. · App web que rastrea y monitorea variables físicas en tiempo real. | Python Django |
+| **[Monitoring App]((https://github.com/CamiloInoue/Courses-Review-Web.git))** | Web app that tracks and monitors physical variables in real time. · App web que rastrea y monitorea variables físicas en tiempo real. | Python Django |
 | **[Course Feedback Web](https://github.com/CamiloInoue/Parcial2Web)** | Web platform where students post and browse reviews of courses and activities. · Plataforma web donde estudiantes publican y consultan reseñas de cursos y actividades. | TypeScript JavaScript |
 
 > 🔜 More full-stack + data projects on the way — check my pinned repositories.
